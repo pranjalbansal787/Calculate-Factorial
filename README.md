@@ -1,7 +1,7 @@
 # Calculate-Factorial
 how to calculate factorial using java 
 
-Enter number of digits 
+Enter size of the number 
 
 Enter the number 
 
